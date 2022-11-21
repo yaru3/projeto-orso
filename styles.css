@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,300&family=Rubik+Glitch&family=Rubik+Microbe&display=swap');
+
+  .topnav {
+    background-color: #333;
+    overflow: hidden;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: 'Rubik Glitch', cursive;
+  }
+  
+  .topnav a:hover {
+    background-color: rgba(173, 219, 112, 0.397);
+    color: black;
+  }
+  
+  .topnav a:active {
+    background-color: green;
+
+  }
+
+  #homepagetitle {
+    font-family: 'Raleway', sans-serif;
+    margin-left: 50px;
+  }
+
+  .topnav a:active {
+    background-color:blue;
+  }
